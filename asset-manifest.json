@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microtaski/static/css/main.e01d8ac8.css",
+    "main.js": "/microtaski/static/js/main.55067a0f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/microtaski/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/microtaski/index.html",
+    "main.e01d8ac8.css.map": "/microtaski/static/css/main.e01d8ac8.css.map",
+    "main.55067a0f.js.map": "/microtaski/static/js/main.55067a0f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/microtaski/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01d8ac8.css",
+    "static/js/main.55067a0f.js"
+  ]
+}
